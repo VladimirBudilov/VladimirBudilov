@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **42 main corriculum circle**
 
 <h3 align="left">Connect with me:</h3>
-- <a href="https://t.me/Vladimir_Budilov">Contact</a>: Feel free to reach out to me on Telegram!
+Feel free to reach out to me on - <a href="https://t.me/Vladimir_Budilov">Telegram</a>!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
