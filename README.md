@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **42 main corriculum circle**
 
-<h3 align="left">Connect with me:</h3> [Telegram](https://t.me/Vladimir_Budilov)
+<h3 align="left">Connect with me:</h3> -[Telegram](https://t.me/Vladimir_Budilov)
 <p align="left">
 </p>
 
