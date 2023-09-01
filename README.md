@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladimir Budilov</h1>
 <h3 align="center">A student of 42 SCHOOL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimirbudilov&label=Profile%20views&color=0e75b6&style=flat" alt="vladimirbudilov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladimirbudilov" alt="vladimirbudilov" /></a> </p>
-
 - 🔭 I’m currently working on **42 main corriculum circle**
 
 <h3 align="left">Connect with me:</h3>
