@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **42 main corriculum circle**
 
-<h3 align="left">Connect with me:</h3> -[Telegram](https://t.me/Vladimir_Budilov)
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+- [Telegram](https://t.me/Vladimir_Budilov): Feel free to reach out to me on Telegram!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
