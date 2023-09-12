@@ -1,4 +1,7 @@
-<h1 align="center"> <= when saw own old code </h1>
+<h3 align="center">
+
+</h3>
+<h1 align="left"> <= when saw own old code </h1>
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
