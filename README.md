@@ -5,7 +5,6 @@
   
 </h1>
 
-<h3 align="left">Connect with me:</h3>
 Feel free to reach out to me on <a href="https://t.me/Vladimir_Budilov">Telegram</a>!
 </p>
 
