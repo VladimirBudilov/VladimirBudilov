@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vladimir Budilov</h1>
-<h3 align="center">A student of 42 SCHOOL</h3>
-
-- 🔭 I’m currently working on **main curriculum circle**
+<h1 align="center"> <= when saw own old code </h1>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 Feel free to reach out to me on <a href="https://t.me/Vladimir_Budilov">Telegram</a>!
