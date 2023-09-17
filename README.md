@@ -3,8 +3,6 @@
 <= WHEN SAW OWN OLD CODE </h1>
 <h1 align="center">
   
-</h1>
-
 Feel free to reach out to me on <a href="https://t.me/Vladimir_Budilov">Telegram</a>!
 <br>
 and if you're bored you can play my game at <a href="https://vladimirbudilov.itch.io)">itch</a>
