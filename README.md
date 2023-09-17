@@ -6,7 +6,7 @@
   
 Feel free to reach out to me on <a href="https://t.me/Vladimir_Budilov">Telegram</a>!
 <br>
-and if you're bored you can play my game at <a href="[https://vladimirbudilov.itch.io](https://vladimirbudilov.itch.io/)">itch</a>
+and if you're bored you can play my game at <a href="https://vladimirbudilov.itch.io/">itch</a>
 </p>
 
 <h3 align="right">Languages and Tools:</h3>
